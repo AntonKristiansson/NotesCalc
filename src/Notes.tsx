@@ -127,33 +127,3 @@ const NotesApp = () => {
 }
 
 export default NotesApp;
-
-{/* https://www.youtube.com/watch?v=8KB3DHI-QbM 
-    https://github.com/chrisblakely01/react-notes-app
-    
-    https://paydendyer.github.io/react-notes-app/
-
-
-    https://dev.to/andyrewlee/how-to-update-an-array-of-objects-in-react-state-3d
-    https://dev.to/andyrewlee/cheat-sheet-for-updating-objects-and-arrays-in-react-state-48np
-    
-    Draggable to localstorage:
-    https://github.com/victoria-lo/bulletin-board/blob/master/src/App.js
-    https://victoria-lo.github.io/bulletin-board/
-    https://www.npmjs.com/package/react-draggable
-
-    Style radio button color:
-    https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_custom_radio
-    https://github.com/LalitKumar234/Notes-Taking-App/blob/main/src/Components/SideNav/SideNav.jsx
-
-    Kvar å göra:
-    - Edit button. Efter click av edit så skapas en ny usestate med data från den
-    klickade noten = KLAR
-    - CSS
-    - ta bort note placeholders = KLAR
-    - färger på notesen, man väljer själv = KLAR
-    - spara draggable location till local storage? = KLAR
-    - ta bort oanvända bakgrundsbilden = KLAR 
-    - Bra färger
-
-*/}
