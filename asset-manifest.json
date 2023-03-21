@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NotesCalc/static/css/main.3cf39fdb.css",
+    "main.js": "/NotesCalc/static/js/main.af17c1e1.js",
+    "static/js/787.a174f9e5.chunk.js": "/NotesCalc/static/js/787.a174f9e5.chunk.js",
+    "static/media/background.png": "/NotesCalc/static/media/background.0fd3efeb74a7e531ac24.png",
+    "index.html": "/NotesCalc/index.html",
+    "main.3cf39fdb.css.map": "/NotesCalc/static/css/main.3cf39fdb.css.map",
+    "main.af17c1e1.js.map": "/NotesCalc/static/js/main.af17c1e1.js.map",
+    "787.a174f9e5.chunk.js.map": "/NotesCalc/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cf39fdb.css",
+    "static/js/main.af17c1e1.js"
+  ]
+}
