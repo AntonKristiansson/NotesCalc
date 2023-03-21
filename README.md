@@ -5,4 +5,4 @@ Notes and Calculator website
 - Data saved to Localstorage
 - Working Calculator
 
-antonkristiansson.github.io/NotesCalc/
+https://antonkristiansson.github.io/NotesCalc/
